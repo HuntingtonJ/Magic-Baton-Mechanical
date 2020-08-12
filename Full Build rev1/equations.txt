@@ -1,0 +1,7 @@
+﻿"Board Width"= 14.5
+"Board Height"= 43.3
+"Board Thickness"= 1.6
+"D1@Sketch1"="Board Width"
+"D2@Sketch1"="Board Height"
+"Handle Length" = 35
+"D6@Sketch2"="Handle Length"
